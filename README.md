@@ -2,6 +2,8 @@
 Explore the beauty of binary World! ...
 
 ![anjana_hd github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&theme=radical)
+
+![My Language Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=anjana-dodampe&layout=compact)
 <!--
 **anjana-dodampe/anjana-dodampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
