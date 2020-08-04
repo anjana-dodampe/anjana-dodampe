@@ -1,9 +1,9 @@
 ### Hi there 👋
 Explore the beauty of binary World! ...
 
-![anjana_hd github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&theme=radical)
+![anjana_hd github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&theme=radical) [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anjana-dodampe)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anjana-dodampe)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 ![My Language Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=anjana-dodampe&layout=compact)
 <!--
