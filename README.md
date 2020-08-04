@@ -1,7 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+Explore the beauty of binary World! ...
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?anjana-dodampe=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+![anjana_hd github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&theme=radical)
 <!--
 **anjana-dodampe/anjana-dodampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
