@@ -2,6 +2,7 @@
 
 [![anjana-dodampe's github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe)](https://github.com/anjana-dodampe/github-readme-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anjana-dodampe)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 ![My Language Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=anjana-dodampe&layout=compact)
