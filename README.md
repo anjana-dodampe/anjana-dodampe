@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my Git Space! 👋
-![anjana-dodampe's github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&count_private=true&show_icons=true&theme=radical)
+![anjana-dodampe's github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&count_private=true&show_icons=true&theme=onedark)
 
 [![anjana-dodampe's github stats](https://github-readme-stats.vercel.app/api?username=anjana-dodampe)](https://github.com/anjana-dodampe/github-readme-stats)
 
