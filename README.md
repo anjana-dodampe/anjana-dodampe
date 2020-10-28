@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my Git Space! 👋
- I'm [Anjana]
+ I'm Anjana Dodampe | UCSC CS Undergraduate 
 <br/>
 <a href="https://twitter.com/AiSER_HD">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,6 +11,7 @@
 <br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=anjana-dodampe)
 <br />
+<hr>
 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
