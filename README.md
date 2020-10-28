@@ -13,7 +13,7 @@
 <hr>
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=87CEEB)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=anjana-dodampe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=F0F8FF)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
